@@ -1,2 +1,2 @@
 # wikipedia
-sample_wikipedia
+This is a sample content from wikipedia
