@@ -4,3 +4,9 @@
 }
 
 /* Add any additional styles here */
+.background-style {
+  background-color: blue
+  margin: 0 auto;
+  padding: 12px;
+  text-align: center;
+}
