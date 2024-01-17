@@ -3,10 +3,12 @@
   margin-left: 30px;
 }
 
-/* Add any additional styles here */
 .background-style {
-  background-color: blue
   margin: 0 auto;
   padding: 12px;
   text-align: .right-align;
+  background-color: grey; /* Set the background color to a light gray */
+  color: white; /* Set the font color to a dark gray */
 }
+
+/* Add any additional styles here */
